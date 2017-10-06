@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1507248198 source:d:\primerparcial\primerparcial\contratacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"validar.h"
+	"contratacion.h"
+	"pantalla.h"
+
+1507239633 d:\primerparcial\primerparcial\validar.h
+
+1507249764 d:\primerparcial\primerparcial\contratacion.h
+	"pantalla.h"
+
+1507242629 d:\primerparcial\primerparcial\pantalla.h
+
+1507247875 source:d:\primerparcial\primerparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"pantalla.h"
+	"contratacion.h"
+	"validar.h"
+	"informes.h"
+
+1507247968 source:d:\primerparcial\primerparcial\pantalla.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"validar.h"
+	"pantalla.h"
+	"contratacion.h"
+	"informes.h"
+
+1507239612 source:d:\primerparcial\primerparcial\validar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"validar.h"
+
+1507250214 source:d:\primerparcial\primerparcial\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"pantalla.h"
+	"contratacion.h"
+	"validar.h"
+
+1507249764 d:\primerparcial\primerparcial\informes.h
+	"pantalla.h"
+	"contratacion.h"
+	"validar.h"
+
